@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Halah Mhanni
 
-<!--
-**hal4h/hal4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th year Computer Science student with a passion for building thoughtful, performant software — from low-level systems to real-world fintech products.
 
-Here are some ideas to get you started:
+🚀 Currently:
+- 🧪 **Software Developer Co-op @ Agriculture and Agri-Food Canada**  
+   Working on tools that support Canadian agriculture using modern web technologies and backend systems.
+- 🧠 **Founder & Developer of [Sentivest](https://github.com/your-sentivest-repo)**  
+   A sentiment-based stock analysis tool for retail investors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interests:
+- 🖥️ **Low-level programming** — exploring operating systems, memory management, and performance optimization.
+- 🧩 **Computer architecture** — fascinated by how hardware and software interact at the instruction level.
+- 💰 **Fintech** — building tools that empower users to understand markets and take control of their financial future.
+- 🛠️ **Software development** — from scripting and automation to full-stack applications.
+
+🌱 I'm constantly learning — whether it’s improving my systems knowledge, shipping full-stack projects, or digging deeper into the internals of compilers, processors, or distributed systems.
+
+---
+
+📫 **Let’s connect!**
+- 💼 [LinkedIn](https://www.linkedin.com/in/halah-mhanni)
+- 💌 Feel free to reach out about internships, collaborations, or just to chat tech!
+
+---
