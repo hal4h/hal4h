@@ -5,7 +5,7 @@
 🚀 Currently:
 - 🧪 **Software Developer Co-op @ Agriculture and Agri-Food Canada**  
    Working on tools that support Canadian agriculture using modern web technologies and backend systems.
-- 🧠 **Founder & Developer of [Sentivest](https://github.com/your-sentivest-repo)**  
+- 🧠 **Developping [Sentivest](https://github.com/your-sentivest-repo)**  
    A sentiment-based stock analysis tool for retail investors.
 
 💻 Interests:
