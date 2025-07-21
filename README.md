@@ -24,7 +24,4 @@
 
 ---
 
-**[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?=hal4h=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?hal4h=jasongaylord&langs_count=5&theme=tokyonight)]()
-
-**
+![hal4h's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hal4h&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
