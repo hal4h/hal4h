@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Halah Mhanni
 
-🎓 I'm a 4th year Computer Science student with a passion for building thoughtful, performant software — from low-level systems to real-world fintech products.
+🎓 I'm a 4th year Computer Science student at the University of Manitoba with a passion for building thoughtful, performant software — from low-level systems to real-world fintech products.
 
 🚀 Currently:
 - 🧪 **Software Developer Co-op @ Agriculture and Agri-Food Canada**  
