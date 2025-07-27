@@ -25,3 +25,5 @@
 ---
 
 ![hal4h's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hal4h&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Profile views](https://counter.kuber.studio/hal4h/dark/count.svg)
