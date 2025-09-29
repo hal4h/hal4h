@@ -1,12 +1,9 @@
-# 👋 Hi there! I'm Halah Mhanni
+# 👋 Hi! I'm Halah Mhanni
 
-🎓 I'm a 4th year Computer Science student at the University of Manitoba with a passion for building thoughtful, performant software — from low-level systems to real-world fintech products.
-
+🎓 I'm a 4th year Computer Science student at the University of Manitoba with a passion for building thoughtful, performant software
 🚀 Currently:
 - 🧪 **Software Developer Co-op @ Agriculture and Agri-Food Canada**  
    Working on tools that support Canadian agriculture using modern web technologies and backend systems.
-- 🧠 **Developping [Sentivest](https://github.com/hal4h/Sentivest)**  
-   A sentiment-based stock analysis tool for retail investors.
 
 💻 Interests:
 - 🖥️ **Low-level programming** — exploring operating systems, memory management, and performance optimization.
