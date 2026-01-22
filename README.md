@@ -1,23 +1,13 @@
-# 👋 Hi! I'm Halah Mhanni
+# Heyy! I'm Halah!! 
+I'm a 4th year Computer Science student at the University of Manitoba with a passion for building thoughtful, performant software
+ Interests:
+- **Low-level programming** — exploring operating systems, memory management, and performance optimization.
+- **Computer architecture** — fascinated by how hardware and software interact at the instruction level.
+- **Fintech** — building tools that empower users to understand markets and take control of their financial future.
 
-🎓 I'm a 4th year Computer Science student at the University of Manitoba with a passion for building thoughtful, performant software
-🚀 Currently:
-- 🧪 **Software Developer Co-op @ Agriculture and Agri-Food Canada**  
-   Working on tools that support Canadian agriculture using modern web technologies and backend systems.
-
-💻 Interests:
-- 🖥️ **Low-level programming** — exploring operating systems, memory management, and performance optimization.
-- 🧩 **Computer architecture** — fascinated by how hardware and software interact at the instruction level.
-- 💰 **Fintech** — building tools that empower users to understand markets and take control of their financial future.
-- 🛠️ **Software development** — from scripting and automation to full-stack applications.
-
-🌱 I'm constantly learning — whether it’s improving my systems knowledge, shipping full-stack projects, or digging deeper into the internals of compilers, processors, or distributed systems.
-
----
-
-📫 **Let’s connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/halah-mhanni)
-- 💌 Feel free to reach out about internships, collaborations, or just to chat tech!
+ **Let’s connect!**
+-  [LinkedIn](https://www.linkedin.com/in/halah-mhanni)
+- 💌 Feel free to reach out!
 
 ---
 
